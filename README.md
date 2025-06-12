@@ -175,3 +175,10 @@ If this repo helped you:
 MIT License — free to use, modify, and share.
 
 > Made with ❤️ by [@Sharique55](https://github.com/Sharique55)
+
+---
+# Tags
+
+#RemoteDevelopment #DevContainers #SSHTunnel #CloudIDE #VSCode #VPN #VM #GitHubCodespaces #Docker #RemoteDebugging #CloudDevelopment #InfrastructureAsCode #DevOps #DeveloperTools
+
+

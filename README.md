@@ -5,8 +5,8 @@
 
 ---
 
-[![Remote Development Methods Banner](./remote-dev-methods-banner.png)](https://github.com/Sharique55/remote-dev-methods)
-
+<!-- [![Remote Development Methods Banner](./remote-dev-methods-banner.png)](https://github.com/Sharique55/remote-dev-methods) -->
+![Remote Development Methods Banner](./remote-dev-methods-banner.png)
 
 ---
 

@@ -1,5 +1,7 @@
 # 🚀 Ultimate Guide to Dev Containers
 
+![dev container](assets/images/devcontainer.svg)
+
 **Everything you need to know about Dev Containers—what they are, why they matter, and exactly how to set up and use them in your projects, with code and real-world examples.**
 
 ---

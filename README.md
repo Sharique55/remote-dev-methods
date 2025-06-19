@@ -105,7 +105,7 @@ Isolated full OS instances.
 Cloud-hosted or server-run IDEs for code editing.
 
 **Examples**
-- GitHub Codespaces
+- GitHub Codespaces  🧩 [How to Create Your Own GitHub Codespace Configuration](https://gist.github.com/Sharique55/06c8666033e56aacb75084e8ba88e609) 🧩
 - AWS Cloud9
 - Replit
 
